@@ -1,0 +1,14 @@
+code/node_modules
+node_modules
+.idea
+code/artifacts
+artifacts
+code/package-lock.json
+*.log
+
+
+bin
+obj
+packages
+*csproj.*
+.vs
